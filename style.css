@@ -48,12 +48,12 @@
     text-align: center;
 }
 
-.donate-head {
+.heading {
     font-size: 50px;
     margin: 20px;
 }
 
-.donate-des {
+.heading-des {
     color: #747474;
 }
 
@@ -123,4 +123,41 @@
     margin: 10px;
     padding: 30px 20px 20px 40px;
     border-radius: 10px;
+}
+
+/*------ join us section ----*/
+
+.offer-head {
+    font-size: 40px;
+    text-align: center;
+}
+
+.ju-img img {
+    width: 80%;
+    margin-left: 50px;
+}
+
+.offer-sec {
+    display: flex;
+    margin-top: 50px;
+}
+
+.flexer {
+    width: 100%;
+}
+
+.ju-offer {
+    text-align: justify;
+    font-style: italic;
+    color: crimson;
+    font-weight: 700;
+    padding: 20px;
+    margin: 40px;
+}
+
+/*------- update section -----*/
+
+.update {
+    text-align: center;
+    margin: 20px;
 }
