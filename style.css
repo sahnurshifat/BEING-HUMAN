@@ -1,0 +1,76 @@
+* {
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+}
+
+.top-sec {
+    padding: 150px;
+    background-image: url(sources/images/donation13.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.top-portion {
+    text-align: center;
+
+}
+
+.motto {
+    color: white;
+    font-weight: 700;
+    font-size: 70px;
+    margin: 0;
+}
+
+.motto-des {
+    color: white;
+    font-weight: 400;
+}
+
+.button1 {
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 20px;
+    color: white;
+    background-image: linear-gradient(salmon, tomato);
+    display: inline-block;
+    margin-top: 50px;
+    padding: 20px 40px;
+    border-radius: 10px;
+}
+
+/*-------- 2nd section ------*/
+
+.middle-sec {
+    margin-top: 100px;
+    text-align: center;
+}
+
+.donate-head {
+    font-size: 50px;
+    margin: 20px;
+}
+
+.donate-box {
+    display: flex;
+    justify-content: center;
+}
+
+.money {
+    background-color: #e2e2e2;
+    color: #747474;
+    margin: 50px;
+    padding: 40px 40px;
+    border-radius: 10px;
+}
+
+#highlight-money {
+    background-color: #f8d6d2;
+    color: #ff4e2e;
+    border: 3px solid #ff4e2e;
+}
+
+.hr-part {
+    color: #747474;
+}
