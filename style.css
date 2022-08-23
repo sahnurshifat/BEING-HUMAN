@@ -161,3 +161,21 @@
     text-align: center;
     margin: 20px;
 }
+
+/*--------- footer -------*/
+
+.footer {
+    text-align: center;
+    background-color: black;
+    padding: 30px 10px;
+}
+
+#f-head {
+    color: crimson;
+    font-family: 'Lobster', cursive;
+}
+
+#f-des {
+    color: white;
+    margin-top: 20px;
+}
