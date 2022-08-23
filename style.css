@@ -35,7 +35,7 @@
     color: white;
     background-image: linear-gradient(salmon, tomato);
     display: inline-block;
-    margin-top: 50px;
+    margin-top: 30px;
     padding: 20px 40px;
     border-radius: 10px;
 }
@@ -44,12 +44,17 @@
 
 .middle-sec {
     margin-top: 100px;
+    margin-bottom: 50px;
     text-align: center;
 }
 
 .donate-head {
     font-size: 50px;
     margin: 20px;
+}
+
+.donate-des {
+    color: #747474;
 }
 
 .donate-box {
@@ -73,4 +78,49 @@
 
 .hr-part {
     color: #747474;
+    margin: 20px;
+}
+
+.hr {
+    width: 50%;
+    margin-left: 25%;
+}
+
+/*-------- 3rd section --------*/
+
+.third-part {
+    text-align: center;
+}
+
+.plans {
+    display: flex;
+    margin: 50px;
+}
+
+.plan-heading {
+    margin: 20px 0px;
+}
+
+.plan-box1 {
+    text-align: justify;
+    background-color: #e1f9ff;
+    margin: 10px;
+    padding: 30px 20px 20px 40px;
+    border-radius: 10px;
+}
+
+.plan-box2 {
+    text-align: justify;
+    background-color: #ffe8eb;
+    margin: 10px;
+    padding: 30px 20px 20px 40px;
+    border-radius: 10px;
+}
+
+.plan-box3 {
+    text-align: justify;
+    background-color: #fffce4;
+    margin: 10px;
+    padding: 30px 20px 20px 40px;
+    border-radius: 10px;
 }
